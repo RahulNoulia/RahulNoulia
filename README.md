@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###Rahul is a computer programming enthusiast with great interest in algorithms, data structures and design of overall architecture.He have ability of quickly grasping new programming language/technology in a short span of time. He is very passionate about coding and problem-solving.
+### Rahul is a computer programming enthusiast with great interest in algorithms, data structures and design of overall architecture.He have ability of quickly grasping new programming language/technology in a short span of time. He is very passionate about coding and problem-solving.
 His favorite programming language are Java , Python and C++ and a developer with great debugging skills .
 
 <!--
