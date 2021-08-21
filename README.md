@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/rnoulia/">
   <img align="left" alt="Himanshu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br />
 #### Rahul is a computer programming enthusiast with great interest in algorithms, data structures and design of overall architecture.He have ability of quickly grasping new programming language/technology in a short span of time. He is very passionate about coding and problem-solving. His favorite programming language are Java , Python and C++ and a developer with great debugging skills .
 
 <!--
