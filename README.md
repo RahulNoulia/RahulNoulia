@@ -1,11 +1,10 @@
 ### Hi there Welcome to my github profile 👋
 
 <a href="https://www.linkedin.com/in/rnoulia/">
-  <img align="left" alt="Himanshu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Rahul LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br/>
-<hr>
-Rahul is a computer programming enthusiast with great interest in algorithms, data structures and design of overall architecture.He have ability of quickly grasping new programming language/technology in a short span of time. He is very passionate about coding and problem-solving. His favorite programming language are Java , Python and C++ and a developer with great debugging skills .</hr>
+
+### Rahul is a computer programming enthusiast with great interest in algorithms, data structures and design of overall architecture.He have ability of quickly grasping new programming language/technology in a short span of time. He is very passionate about coding and problem-solving. His favorite programming language are Java , Python and C++ and a developer with great debugging skills .
 
 <!--
 **RahulNoulia/RahulNoulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
