@@ -2,8 +2,8 @@
 
 <hr>
 <a href="https://www.linkedin.com/in/rnoulia/">
-  <img align="left" alt="Rahul LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   👉 Rahul LinkedIN 
+  <img align="left" alt="Rahul LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br />
