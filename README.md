@@ -2,7 +2,6 @@
 
 <hr>
 <a href="https://www.linkedin.com/in/rnoulia/">
-  👉 <p>Rahul's LinkedIN </p>
   <img align="left" alt="Rahul's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
