@@ -5,7 +5,7 @@
   <img align="left" alt="Rahul's LinkedIN" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.hackerearth.com/@Noulia_G">
-  <img align="left" alt="Rahul's HackerEarth" width="140px" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
+  <img align="left" alt="Rahul's HackerEarth" width="80px" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
 </a>
 <a href="https://www.codechef.com/users/rnoulia">
   <img align="left" alt="Rahul's CodeChef" width="100px" src="https://www.codechef.com/misc/fb-image-icon.png" />
