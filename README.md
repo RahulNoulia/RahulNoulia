@@ -10,13 +10,12 @@
 Rahul is a computer programming enthusiast with great interest in algorithms, data structures and design of overall architecture.He have ability of quickly grasping new programming language/technology in a short span of time. He is very passionate about coding and problem-solving. His favorite programming language are Java , Python and C++ and a developer with great debugging skills .
 <hr>
 
-### What you get from me :
+### Below Things Available in my Profile :
 
 - 💻 &nbsp; Python Based Tools Linux Tools .
 - 📰 &nbsp; Data Structure and Algorithm Stuff .
 - 📰 &nbsp; Coding/Algorithmic problem sulutions.
 - 📰 &nbsp; Web Based Core Projects ( Few only ).
-- 
 <!--
 **RahulNoulia/RahulNoulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
