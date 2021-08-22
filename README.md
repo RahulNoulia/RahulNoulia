@@ -2,7 +2,7 @@
 
 <hr>
 <a href="https://www.linkedin.com/in/rnoulia/">
-  Rahul's LinkedIN
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   <img align="left" alt="Rahul's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br><br>
