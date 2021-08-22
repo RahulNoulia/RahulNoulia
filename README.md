@@ -8,7 +8,7 @@
   <img align="left" alt="Rahul's HackerEarth" width="140px" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
 </a>
 <a href="https://www.codechef.com/users/rnoulia">
-  <img align="left" alt="Rahul's CodeChef" width="50px" src="https://www.codechef.com/misc/fb-image-icon.png" />
+  <img align="left" alt="Rahul's CodeChef" width="300px" src="https://www.codechef.com/misc/fb-image-icon.png" />
 </a>
 <br><br>
 Rahul is a computer programming enthusiast with great interest in algorithms, data structures and design of overall architecture.He have ability of quickly grasping new programming language/technology in a short span of time. He is very passionate about coding and problem-solving. His favorite programming language are Java , Python and C++ and a developer with great debugging skills .
