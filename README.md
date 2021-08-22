@@ -21,9 +21,9 @@ Rahul is a computer programming enthusiast with great interest in algorithms, da
 ### 👇 Below Things Available in my Profile :
 
 - 💻 &nbsp; Python Based Tools Linux Tools .
-- 📰 &nbsp; Data Structure and Algorithm Stuff .
-- 📰 &nbsp; Coding/Algorithmic problem sulutions.
-- 📰 &nbsp; Web Based Core Projects ( Few only ).
+- 📝 &nbsp; Data Structure and Algorithm Stuff .
+- 📝 &nbsp; Coding/Algorithmic problem sulutions.
+- 📝 &nbsp; Web Based Core Projects ( Few only ).
 
 ### 💛 Many Thank for visiting my Profile and Found helpfull 🙏
 <!--
