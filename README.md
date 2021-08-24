@@ -10,6 +10,9 @@
 <a href="https://www.hackerrank.com/RNoulia">
   <img align="left" alt="Rahul's HackerRank" width="140px" src="https://img.shields.io/badge/HackerRank-%232C3454.svg?style=for-the-badge&logo=HackerRank&logoColor=Blue" /> 
 </a> 
+<a href="https://leetcode.com/RahulNoulia">
+  <img align="left" alt="Rahul's LeetCode" width="140px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /> 
+</a> 
 <br><br>
   
 Rahul is a computer programming enthusiast with great interest in algorithms, data structures and design of overall architecture. 💥 He have ability of quickly grasping new programming language/technology in a short span of time.💥 He is very passionate about coding and problem-solving. 💥 His favorite programming language are Java , Python and C++ and a developer with great debugging skills 💥.
