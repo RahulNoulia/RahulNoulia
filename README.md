@@ -2,7 +2,7 @@
 
 <hr>
 <a href="https://www.linkedin.com/in/rnoulia/">
-  <img align="left" alt="Rahul's LinkedIN" width="130px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Rahul's LinkedIN" width="120px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.codechef.com/users/rnoulia">
   <img align="left" alt="Rahul's HackerEarth" width="130px" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/codechef.png" /> 
