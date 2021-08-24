@@ -11,7 +11,7 @@
   <img align="left" alt="Rahul's HackerRank" width="140px" src="https://img.shields.io/badge/HackerRank-%232C3454.svg?style=for-the-badge&logo=HackerRank&logoColor=Blue" /> 
 </a> 
 <a href="https://leetcode.com/RahulNoulia">
-  <img align="left" alt="Rahul's LeetCode" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /> 
+  <img align="left" alt="Rahul's LeetCode" width="50px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /> 
 </a> 
 <br><br>
   
