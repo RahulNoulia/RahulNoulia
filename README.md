@@ -8,7 +8,7 @@
   <img align="left" alt="Rahul's HackerEarth" width="130px" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/codechef.png" /> 
  </a>
 <a href="https://leetcode.com/RahulNoulia">
-  <img align="left" alt="Rahul's LeetCode" width="130px" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/leetcode.png" /> 
+  <img align="left" alt="Rahul's LeetCode" width="125px" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/leetcode.png" /> 
 </a> 
 <br><br>
   
