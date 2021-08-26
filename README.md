@@ -26,10 +26,8 @@ Rahul is a computer programming enthusiast with great interest in algorithms, da
 - 📝 &nbsp; Data Structure and Algorithm Stuff .
 - 📝 &nbsp; Coding/Algorithmic problem sulutions.
 - 📝 &nbsp; Web Based Core Projects (only few ).
-- 
-<p>
-  📫 How to reach me: <a href='mailto:rnoulia@gmail.com'>rnoulia@gmail.com</a>
-</p>
+
+ ####  📫 How to reach me: <a href='mailto:rnoulia@gmail.com'>rnoulia@gmail.com</a>
 
 <!--
 **RahulNoulia/RahulNoulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
