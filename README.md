@@ -20,15 +20,14 @@ Rahul is a computer programming enthusiast with great interest in algorithms, da
 
 <img align="right" alt="GIF" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/code.gif" width="380" height="165" />
 
-<p align='center'>
 #### 👇 Below Things Available in my Profile :
 
 - 💻 &nbsp; Python Based Tools / Linux Tools .
 - 📝 &nbsp; Data Structure and Algorithm Stuff .
 - 📝 &nbsp; Coding/Algorithmic problem sulutions.
 - 📝 &nbsp; Web Based Core Projects (only few ).
-</p>
-<p align='center'>
+- 
+<p>
   📫 How to reach me: <a href='mailto:rnoulia@gmail.com'>rnoulia@gmail.com</a>
 </p>
 
