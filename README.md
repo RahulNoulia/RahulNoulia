@@ -11,7 +11,7 @@
   <img align="left" alt="Rahul's LeetCode" width="125px" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/leetcode.png" /> 
 </a> 
 <a href="https://www.hackerearth.com/@Noulia_G">
-  <img align="left" alt="Rahul's HackerEarth" width="125px" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" /> 
+  <img align="left" alt="Rahul's HackerEarth" width="130px" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" /> 
 </a> 
 <br><br>
   
