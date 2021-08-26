@@ -1,7 +1,8 @@
 <h1 align='center'>
-### Hi there Welcome to my github profile 👋
+Hi there Welcome to my github profile 👋
 </h1>
 <hr>
+<p align='center'>
 <a href="https://www.linkedin.com/in/rnoulia/">
   <img align="left" alt="Rahul's LinkedIN" width="120px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -15,8 +16,8 @@
   <img align="left" alt="Rahul's HackerEarth" width="130px" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" /> 
 </a> 
 <br><br>
-  
 Rahul is a computer programming enthusiast with great interest in algorithms, data structures and design of overall architecture. 💥 He have ability of quickly grasping new programming language/technology in a short span of time.💥 He is very passionate about coding and problem-solving. 💥 His favorite programming language are Java , Python and C++ and a developer with great debugging skills 💥.
+</p>
 <hr>
 
 <img align="right" alt="GIF" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/code.gif" width="380" height="165" />
