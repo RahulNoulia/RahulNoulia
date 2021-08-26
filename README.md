@@ -1,5 +1,6 @@
+<h1 align='center'>
 ### Hi there Welcome to my github profile 👋
-
+</h1>
 <hr>
 <a href="https://www.linkedin.com/in/rnoulia/">
   <img align="left" alt="Rahul's LinkedIN" width="120px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -28,7 +29,11 @@ Rahul is a computer programming enthusiast with great interest in algorithms, da
 - 📝 &nbsp; Coding/Algorithmic problem sulutions.
 - 📝 &nbsp; Web Based Core Projects (only few ).
 
-#### 💛 Many Thanks for visiting my Profile and Found helpfull 🙏
+<p align='center'>
+  📫 How to reach me: <a href='mailto:rnoulia@gmail.com'>rnoulia@gmail.com</a>
+</p>
+
+#### 💛 Many Thanks for visiting my Profile 🙏
 <!--
 **RahulNoulia/RahulNoulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
