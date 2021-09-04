@@ -2,6 +2,12 @@
 Hi there Welcome to my github profile 👋
 </h1>
 <hr>
+<p>
+<h3> Find me on  👉  </h3>
+<a href="https://www.linkedin.com/in/rnoulia/">
+  <img align="left" alt="Rahul's LinkedIN" width="120px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 <!--<a href="https://www.linkedin.com/in/rnoulia/">
   <img align="center" alt="Rahul's LinkedIN" width="120px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -17,12 +23,6 @@ Hi there Welcome to my github profile 👋
 -->
 <br><br>
 Rahul is a computer programming enthusiast with great interest in algorithms, data structures and design of overall architecture. 💥 He have ability of quickly grasping new programming language/technology in a short span of time.💥 He is very passionate about coding and problem-solving. 💥 His favorite programming language are Java , Python and C++ and a developer with great debugging skills 💥.
-<p>
-<h3> Find me on  👉  </h3>
-<a href="https://www.linkedin.com/in/rnoulia/">
-  <img align="left" alt="Rahul's LinkedIN" width="120px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
 <hr>
 
 <img align="right" alt="GIF" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/code.gif" width="380" height="165" />
