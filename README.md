@@ -2,22 +2,6 @@
 Hi there Welcome to my github profile 👋
 </h1>
 <hr>
-<h2>Checkout of  
-<a href="https://www.linkedin.com/in/rnoulia/">
-  <img align="center" alt="Rahul's LinkedIN" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-Profile for complete professional journey </h2>
-<!-- <a href="https://www.codechef.com/users/rnoulia">
-  <img align="left" alt="Rahul's HackerEarth" width="130px" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/codechef.png" /> 
- </a>
-<a href="https://leetcode.com/RahulNoulia">
-  <img align="left" alt="Rahul's LeetCode" width="125px" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/leetcode.png" /> 
-</a> 
-<a href="https://www.hackerearth.com/@Noulia_G">
-  <img align="left" alt="Rahul's HackerEarth" width="130px" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" /> 
-</a> 
--->
-<br><br>
 Rahul is a computer programming enthusiast with great interest in algorithms, data structures and design of overall architecture. 💥 He have ability of quickly grasping new programming language/technology in a short span of time.💥 He is very passionate about coding and problem-solving. 💥 His favorite programming language are Java , Python and C++ and a developer with great debugging skills 💥.
 <hr>
 
@@ -34,7 +18,7 @@ Rahul is a computer programming enthusiast with great interest in algorithms, da
 <h3 align='center'>
 📫 How to reach me: <a href='mailto:rnoulia@gmail.com'>rnoulia@gmail.com</a> <br>
   <a href="https://www.linkedin.com/in/rnoulia/">
-  <img align="center" alt="Rahul's LinkedIN" width="120px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="center" alt="Rahul's LinkedIN" width="120px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&     logoColor=white" />
    <a href="https://www.codechef.com/users/rnoulia">
   <img align="center" alt="Rahul's HackerEarth" width="130px" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/codechef.png" /> 
  </a>
