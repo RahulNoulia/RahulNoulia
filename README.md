@@ -32,7 +32,9 @@ Rahul is a computer programming enthusiast with great interest in algorithms, da
 - 📝 &nbsp; System architecture design Stuff 💙 
 
 <h3 align='center'>
-📫 How to reach me: <a href='mailto:rnoulia@gmail.com'>rnoulia@gmail.com</a>
+📫 How to reach me: <a href='mailto:rnoulia@gmail.com'>rnoulia@gmail.com</a> <br>
+  <a href="https://www.linkedin.com/in/rnoulia/">
+  <img align="center" alt="Rahul's LinkedIN" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </h3>
 <!--
 **RahulNoulia/RahulNoulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
