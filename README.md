@@ -20,7 +20,7 @@ Rahul is a computer programming enthusiast with great interest in algorithms, da
 <p>
 <h3> Find me on  👉  </h3>
 <a href="https://www.linkedin.com/in/rnoulia/">
-  <img align="center" alt="Rahul's LinkedIN" width="120px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Rahul's LinkedIN" width="120px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 <hr>
