@@ -4,7 +4,7 @@ Hi there Welcome to my github profile 👋
 <hr>
 <h2>Checkout of  
 <a href="https://www.linkedin.com/in/rnoulia/">
-  <img align="center" alt="Rahul's LinkedIN" width="120px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="center" alt="Rahul's LinkedIN" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 Profile for complete professional journey </h2>
 <!-- <a href="https://www.codechef.com/users/rnoulia">
