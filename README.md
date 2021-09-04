@@ -3,10 +3,11 @@ Hi there Welcome to my github profile 👋
 </h1>
 <hr>
 <p>
-<h3> Find me on  👉  </h3>
+<h3> Find me on  👉 
 <a href="https://www.linkedin.com/in/rnoulia/">
   <img align="left" alt="Rahul's LinkedIN" width="120px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+</h3>
 </p>
 <!--<a href="https://www.linkedin.com/in/rnoulia/">
   <img align="center" alt="Rahul's LinkedIN" width="120px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
