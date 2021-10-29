@@ -19,9 +19,10 @@ Rahul is a computer programming enthusiast with great interest in algorithms, da
 📫 How to reach me: <a href='mailto:rnoulia@gmail.com'>rnoulia@gmail.com</a> <br>
   <a href="https://www.linkedin.com/in/rnoulia/">
   <img align="center" alt="Rahul's LinkedIN" width="120px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&     logoColor=white" />
+    <!--
    <a href="https://www.codechef.com/users/rnoulia">
-  <img align="center" alt="Rahul's HackerEarth" width="130px" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/codechef.png" /> 
- </a>
+  <img align="center" alt="Rahul's CodeChef" width="130px" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/codechef.png" /> 
+ </a> -->
 <a href="https://leetcode.com/RahulNoulia">
   <img align="center" alt="Rahul's LeetCode" width="125px" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/leetcode.png" /> 
 </a> 
