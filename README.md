@@ -45,6 +45,11 @@ Rahul is a computer programming enthusiast with great interest in algorithms, da
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+#### 🔭 Exploring below Tech
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+
 <hr>
 
 <h3 align='center'>
@@ -53,7 +58,7 @@ Rahul is a computer programming enthusiast with great interest in algorithms, da
   <img align="center" alt="Rahul's LinkedIN" width="120px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&     logoColor=white" />
     <!--
    <a href="https://www.codechef.com/users/rnoulia">
-  <img align="center" alt="Rahul's CodeChef" width="130px" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/codechef.png" /> 
+  <img align="center" alt="Rahul's CodeChef" width="130px" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /> 
  </a> -->
 <a href="https://leetcode.com/RahulNoulia">
   <img align="center" alt="Rahul's LeetCode" width="125px" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/leetcode.png" /> 
