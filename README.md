@@ -5,17 +5,27 @@ Hi there Welcome to my github profile 👋
 Rahul is a computer programming enthusiast with great interest in algorithms, data structures and design of overall architecture. 💥 He have ability of quickly grasping new programming language/technology in a short span of time.💥 He is very passionate about coding and problem-solving. 💥 His favorite programming language are Java , Python and C++ and a developer with great debugging skills 💥.
 <hr>
 
-### ⚡ Tech Stack I Know 
+<img align="right" alt="GIF" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/code.gif" width="380" height="165" />
+
+#### 👇 Below Things Available in my Profile :
+
+- 💻 &nbsp; Python Based Standalone Scripts .
+- 📝 &nbsp; Data Structure and Algorithm Stuff .
+- 📝 &nbsp; Coding/Algorithmic problems .
+- 📝 &nbsp; Web Based Core Projects (only few ).
+- 📝 &nbsp; System architecture design Stuff 💙 
+
+<hr>
+
+<h2 align='center'> ⚡ Tech Stack I Know  </h2>
+
 ![Java Full Stack](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PL-SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
@@ -27,6 +37,9 @@ Rahul is a computer programming enthusiast with great interest in algorithms, da
 
 ### ⚡ Tech Tools I know
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -34,16 +47,6 @@ Rahul is a computer programming enthusiast with great interest in algorithms, da
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 <hr>
-
-<img align="right" alt="GIF" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/code.gif" width="380" height="165" />
-
-#### 👇 Below Things Available in my Profile :
-
-- 💻 &nbsp; Python Based Standalone Scripts .
-- 📝 &nbsp; Data Structure and Algorithm Stuff .
-- 📝 &nbsp; Coding/Algorithmic problems .
-- 📝 &nbsp; Web Based Core Projects (only few ).
-- 📝 &nbsp; System architecture design Stuff 💙 
 
 <h3 align='center'>
 📫 How to reach me: <a href='mailto:rnoulia@gmail.com'>rnoulia@gmail.com</a> <br>
