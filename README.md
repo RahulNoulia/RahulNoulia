@@ -5,7 +5,7 @@ Hi there Welcome to my github profile 👋
 Rahul is a computer programming enthusiast with great interest in algorithms, data structures and design of overall architecture. 💥 He have ability of quickly grasping new programming language/technology in a short span of time.💥 He is very passionate about coding and problem-solving. 💥 His favorite programming language are Java , Python and C++ and a developer with great debugging skills 💥.
 <hr>
 
-<img align="right" alt="GIF" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/programming.gif" width="380" height="185" />
+<img align="right" alt="GIF" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/programming.gif" width="380" height="175" />
 
 #### 👇 Below Things Available in my Profile :
 
