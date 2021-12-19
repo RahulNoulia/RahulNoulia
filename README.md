@@ -13,7 +13,7 @@ Rahul is a computer programming enthusiast with great interest in algorithms, da
 - 📝 &nbsp; Data Structure and Algorithm Stuff .
 - 📝 &nbsp; Web Based Core Projects (only few ).
 - 📝 &nbsp; System architecture design Stuff 💙 
-- 📝 &nbsp; Whatever Tech I can Upload 💙 
+- 📝 &nbsp; Whatever Tech I can 💙 
 
 <hr>
 
