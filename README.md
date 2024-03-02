@@ -10,7 +10,7 @@ Rahul is a computer programming enthusiast with great interest in algorithms, da
 #### 👇 Below Things Available in my Profile :
 
 - 📝 &nbsp; System architecture design Stuff 💙 
-- 💻 &nbsp; Python Based Standalone Scripts .
+- 💻 &nbsp; Java & Python Based work .
 - 📝 &nbsp; Data Structure and Algorithm Stuff .
 - 📝 &nbsp; Web Based Core Projects ( only few ).
 - 📝 &nbsp; Whatever Tech I can 💙 
