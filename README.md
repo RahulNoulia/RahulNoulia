@@ -17,7 +17,7 @@ Rahul is a computer programming enthusiast with great interest in algorithms, da
 
 <hr>
 
-<h3 align='center'> 💥 Tech Stack I'm Currently working on 💥</h3>
+<h3 align='center'> 💥 Stuff I know 💥</h3>
 
 #### 🔭 Programming languages and Frameworks
 ![Java Full Stack](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
