@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&random=false&width=435&lines=Hey+I'm+Rahul Noulia;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Rahul+Noulia;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 ----
 <div align="center">
     <h2>🚀 About Me</h2>
