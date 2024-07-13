@@ -53,6 +53,19 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
+--- 
+<p align="center">
+    <a href="https://github.com/RahulNoulia">
+        <img src="https://github-readme-stats.vercel.app/api?username=RahulNoulia&show_icons=true&include_all_commits=true&theme=vue&count_private=true" alt="Himanshu's github stats" width="450px"/>
+    </a>
+    <a href="https://github.com/RahulNoulia">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNoulia&layout=compact&theme=vue&langs_count=8" />
+    </a>
+     <a href="https://github.com/RahulNoulia">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=RahulNoulia&theme=radical" />
+    </a>
+</p>
+
 <hr>
 
 <h3 align='center'>
