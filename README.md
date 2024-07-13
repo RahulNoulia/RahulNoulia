@@ -1,9 +1,12 @@
-<h1 align='center'>
-Hey there welcome to my github profile 👋
-</h1>
-<hr>
-Rahul is a computer programming enthusiast with great interest in algorithms, data structures and design of overall architecture. 💥 He have ability of quickly grasping new programming language/technology in a short span of time.💥 He is very passionate about coding and problem-solving. 💥 His favorite programming language are Java , Python and C++ and a developer with great debugging skills 💥.
-<hr>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&random=false&width=435&lines=Hey+I'm+Rahul Noulia;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+
+----
+<div align="center">
+    <h2>🚀 About Me</h2>
+   <p align="center">Rahul is a computer programming enthusiast with great interest in algorithms, data structures and design of overall architecture. 💥 He have ability of quickly grasping new programming language/technology in a short span of time.💥 He is very passionate about coding and problem-solving. 💥 His favorite programming language are Java , Python and C++ and a developer with great debugging skills 💥. </p>
+</div>
+
+----
 
 <img align="right" alt="GIF" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/code.gif" width="380" height="165" />
 
