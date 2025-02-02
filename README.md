@@ -11,10 +11,10 @@
 
 #### 👇 Below Things Available in my Profile :
 
-- 📝 &nbsp; System design & architecture Stuff 💙 
-- 💻 &nbsp; Java & Python Based work.
-- 📝 &nbsp; Data Structure and Algorithm Stuff.
-- 📝 &nbsp; Web Based Core Projects.
+- 📝 &nbsp; System design & architecture stuff 💙 
+- 💻 &nbsp; Java & Python based work.
+- 📝 &nbsp; Data Structure and Algorithm stuff.
+- 📝 &nbsp; Web based core projects.
 - 📝 &nbsp; Whatever Tech I can 💙 
 
 <hr>
