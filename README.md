@@ -9,7 +9,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/code.gif" width="380" height="165" />
 
-#### 👇 Below Things Available in my Profile :
+#### 👇 Below things available in my Profile :
 
 - 📝 &nbsp; System design & architecture stuff 💙 
 - 💻 &nbsp; Java & Python based work.
