@@ -2,7 +2,7 @@
 ----
 <div align="center">
     <h2>🚀 About Me</h2>
-   <p align="center">Rahul is a computer programming enthusiast with great interest in algorithms, data structures and design of overall architecture. 💥 He have ability of quickly grasping new programming language/technology in a short span of time.💥 He is very passionate about coding and problem-solving. 💥 His favorite programming language are Java , Python and C++ and a developer with great debugging skills 💥. </p>
+   <p align="center">Rahul is a computer programming enthusiast with great interest in algorithms, data structures, and the design of overall architecture. I have the ability to quickly grasp new programming languages/technologies in a short span of time. I am very passionate about coding and problem-solving.</p>
 </div>
 
 ----
@@ -26,6 +26,7 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -57,7 +58,7 @@
 --- 
 <p align="center">
     <a href="https://github.com/RahulNoulia">
-        <img src="https://github-readme-stats.vercel.app/api?username=RahulNoulia&show_icons=true&include_all_commits=true&theme=vue&count_private=true" alt="Himanshu's github stats" width="450px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=RahulNoulia&show_icons=true&include_all_commits=true&theme=vue&count_private=true" alt="Rahul's github stats" width="450px"/>
     </a>
     <a href="https://github.com/RahulNoulia">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNoulia&layout=compact&theme=vue&langs_count=8" />
