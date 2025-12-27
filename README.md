@@ -13,7 +13,7 @@ complex engineering challenges.</p>
 
 <img align="right" alt="GIF" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/code.gif" width="380" height="165" />
 
-#### 👇 Talk About:
+#### 👇 Talk's About:
 
 - 💻 &nbsp; Java SpringBoot Backend Engineering & Python.
 - 📝 &nbsp; System design & architecture 💙 
