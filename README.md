@@ -16,7 +16,7 @@
 
 ### 💬 I Mostly Talk About
 
-<img align="right" alt="GIF" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/code.gif" width="340" height="130" />
+<img align="right" alt="GIF" src="https://github.com/RahulNoulia/RahulNoulia/blob/main/code.gif" width="310" height="140" />
 
     - 💻 Java, Spring Boot & Backend Engineering  
     - 🧠 System Design & Scalable Architecture  
