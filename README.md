@@ -98,12 +98,14 @@
 <a href="https://www.linkedin.com/in/rnoulia/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+    <!--
 <a href="https://leetcode.com/RahulNoulia">
   <img src="https://github.com/RahulNoulia/RahulNoulia/blob/main/leetcode.png" width="120px"/>
 </a>
 <a href="https://www.hackerearth.com/@Noulia_G">
   <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=blue"/>
 </a>
+    -->
 </p>
 
 ---
